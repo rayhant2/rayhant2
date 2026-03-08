@@ -1,6 +1,6 @@
 ## Tahseen Rayhan
 - Intern of Technical Staff @ Cohere
-- On track to getting acquired by Canada's largest non-profit youth education org.
+- Acquired by Canada's largest non-profit youth education org???
 - Researching/Planning/Building
 
 <!--
