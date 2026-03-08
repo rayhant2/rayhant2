@@ -1,8 +1,7 @@
 ## Tahseen Rayhan
 - Intern of Technical Staff @ Cohere
-- Researching VLMS
 - On track to getting acquired by Canada's largest non-profit youth education org.
-- Building
+- Researching/Planning/Building
 
 <!--
 **rayhant2/rayhant2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
