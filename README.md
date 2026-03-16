@@ -1,6 +1,5 @@
 ## Tahseen Rayhan
 - Intern of Technical Staff @ Cohere
-- Acquired???
 - Researching/Planning/Building
 
 <!--
